@@ -1,0 +1,17 @@
+pip list - shows me what Packages I have installed
+
+deactivate, or close my terminal will deactivate my virtual environment
+
+pip3 list looks the same as pip list
+
+pip list shows all packages that are installed.  
+
+pip freeze shows what I have installed
+
+pip freeze > requirements.txt sends the output to the requirements.txt file.
+
+ls shows the requirements.txt file is there
+
+if I do vi requirements.txt it shows me what I have installed
+
+pip show Django shows me the version, summary,author,author email, license, location
